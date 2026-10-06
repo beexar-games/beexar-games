@@ -24,6 +24,7 @@ Official SDKs — launch game sessions and serve the four seamless-wallet
 callbacks (`/balance`, `/betwin`, `/rollback`, `/finish`), with `X-REQUEST-SIGN`
 verification, decimal-string money and idempotency handled for you:
 
+| | | |
 |---|---|---|
 | **Go** | [`beexar-go`](https://github.com/beexar-games/beexar-go) | `go get github.com/beexar-games/beexar-go` |
 | **Node / TypeScript** | [`beexar-node`](https://github.com/beexar-games/beexar-node) | `npm i @beexar/sdk` |
