@@ -19,9 +19,5 @@ provably fair verification:
 [`public-api`](https://github.com/beexar-games/public-api) holds the OpenAPI
 specifications the SDKs are generated from.
 
-## Games
-
-Crash, Dice, Plinko, Slots and physics-drop titles — each configurable per
-operator, every round provably fair and verifiable after the fact.
 
 📖 [docs.beexar.com](https://docs.beexar.com) · 📬 contact@beexar.com · 💼 [LinkedIn](https://www.linkedin.com/company/beexar/)
